@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MekaiJ
 - 📚 I'm currently studying computer science at Eastern Washington University
 - 👀 I’m interested in programming of any kind
-- 🌱 I’m currently learning c++, web, and game development
+- 🌱 I’m currently learning c++, web, and game development in my free time
 - ⌨️ Contact me on Discord: makei_
 
 <!---
